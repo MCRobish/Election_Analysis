@@ -14,3 +14,4 @@ The purpose of this audit analysis is to quickly verify counts for multiple coun
    * Diana DeGette:           73.8% of the overall vote with 272,892 votes
    * Raymon Anthony Doane:    3.1% of the overall vote with 11,606 votes
 * Based on this information, **Diana DeGette** won this congressional election with 272,892 votes and 73.8% 
+![congressional election results](https://user-images.githubusercontent.com/105991478/176971014-68fd10a4-5cd2-46ce-9f76-d6ad77d405e5.png)

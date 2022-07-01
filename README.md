@@ -8,8 +8,9 @@ The purpose of this audit analysis is to quickly verify counts for multiple coun
     * Jefferson: 38,855 votes, which was 10.5% of the total votes
     * Denver:    306,055 votes, which was 82.8% of the total votes
     * Arapahoe:  24,801 votes, which was 6.7% of the total votes
-* According to this information, Denver had the largest number of votes
+* According to this information, **Denver** had the largest number of votes
 * There were 3 candidates in this election. The results for each candidate are:
    * Charles Casper Stockham: 23.0% of the overall vote with 85,213 votes
    * Diana DeGette:           73.8% of the overall vote with 272,892 votes
    * Raymon Anthony Doane:    3.1% of the overall vote with 11,606 votes
+* Based on this information, **Diana DeGette** won this congressional election with 272,892 votes and 73.8% 

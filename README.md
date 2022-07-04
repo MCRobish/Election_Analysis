@@ -17,10 +17,20 @@ The purpose of this audit analysis is to quickly verify counts for multiple coun
 <p align="center" width="100%">
     <img width="50%" src=https://user-images.githubusercontent.com/105991478/176971014-68fd10a4-5cd2-46ce-9f76-d6ad77d405e5.png>
 </p>
+
 ## Election Audit Summary
 Now that this script has been created, it can be used for future elections as well. The script will work for elections with more than 3 candidates, or for including other states and counties as well. The election data would need to be formatted correctly, and the references to the csv file would need to be updated as well. The line of code referencing the csv file is shown below. 
 
 ```   
 file_to_load = os.path.join("Resources", "election_results.csv")
+
+```
+This file could also be scaled to a national election if needed. It would be important to change the "largest county turnout" to "largest _state_ turnout." This string could be edited as shown below. Though not required for the code to run, it would also make sense to change the variable names for county to state in order to prevent confusion when auditing the code.  
+
+```   
+ largest_county = (
+        f"-------------------------\n"
+        f'Largest State Turnout: {highest_county}\n'
+        f"-------------------------\n")
 
 ```
